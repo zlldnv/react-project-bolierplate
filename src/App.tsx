@@ -1,6 +1,5 @@
 import React from "react";
-o;
-ierjioregijojiore;
+
 function App() {
   return <div className="App">Hello React</div>;
 }
