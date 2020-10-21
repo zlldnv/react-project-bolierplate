@@ -1,7 +1,7 @@
-import React from "react";
+import React, { ReactElement } from "react";
 
-function App() {
-  return <div className="App">Hello Pre commit hooks</div>;
+function App(): ReactElement {
+  return <div className="App">test</div>;
 }
 
 export default App;
