@@ -1,7 +1,8 @@
 import React, { ReactElement } from "react";
 
 function App(): ReactElement {
-  return <div className="App">test</div>;
+  const app = "Test";
+  return <div className="App">{app}</div>;
 }
 
 export default App;
